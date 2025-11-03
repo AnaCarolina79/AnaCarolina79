@@ -51,10 +51,7 @@
 ###
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaCarolina79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AnaCarolina79&locale=pt-br&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ###
 
