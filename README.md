@@ -31,13 +31,8 @@
 ###
 
 <div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaCarolina79&locale=pt-br&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&bg_color=000000&title_color=181717&text_color=181717" 
-    height="180" 
-    alt="languages graph"  
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaCarolina79&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
-
 
 ###
 ###
@@ -71,5 +66,3 @@
 
 
 ###
-
-quero que a estilização da tabela de linguagens mais usada seja da cor do github
