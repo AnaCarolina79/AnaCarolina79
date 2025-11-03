@@ -29,23 +29,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" alt="css logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="45" alt="sequelize logo"  />
 </div>
 
 ###
@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaCarolina79&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaCarolina79&radius=16&theme=one-dark&area=true&order=5" height="450" alt="activity-graph graph"  />
 </div>
 
 ###
