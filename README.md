@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Olá, seja bem-vindo(a)!</h2>
 
 ###
