@@ -1,9 +1,10 @@
 <img align="left" height="280" src="https://i.imgflip.com/aaxxex.jpg"  />
 
 ###
+<div align="left">
 
 <h2 align="left">Olá, seja bem-vindo(a)!</h2>
-
+</div>
 ###
 
 <p align="left">Sou Ana Carolina Moreira, desenvolvedora Full-Stack e artista digital.<br>Unindo design, código e criatividade, busco transformar ideias em experiências digitais únicas — equilibrando estética, funcionalidade e inovação.</p>
