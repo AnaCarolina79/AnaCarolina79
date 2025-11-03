@@ -14,7 +14,7 @@
 
 <div align="left">
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ana-carolina-moreira-6aa4482b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-carolina-moreira-6aa4482b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   
