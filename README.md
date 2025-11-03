@@ -19,6 +19,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
