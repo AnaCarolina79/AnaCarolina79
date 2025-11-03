@@ -1,7 +1,6 @@
-<img align="left" height="280" src="https://i.imgflip.com/aaxxex.jpg"  />
+<img align="left" height="190" src="https://i.imgflip.com/aaxxex.jpg"  />
 
 ###
-
 
 <h2 align="left">Olá, seja bem-vindo(a)!</h2>
 
@@ -19,7 +18,6 @@
 </div>
 
 ###
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
@@ -42,8 +40,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaCarolina79&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
