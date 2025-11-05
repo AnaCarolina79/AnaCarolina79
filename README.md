@@ -39,7 +39,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="5" />
