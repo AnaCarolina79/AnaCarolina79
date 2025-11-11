@@ -47,6 +47,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="45" alt="sequelize logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="45" alt="prisma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="45" alt="mongodb logo"  />
+
 </div>
 
 ###
