@@ -49,7 +49,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+
 
 </div>
 
